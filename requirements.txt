@@ -1,0 +1,5 @@
+numpy
+opencv-python
+tqdm
+moviepy==1.0.3
+glob2==0.7
